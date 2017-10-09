@@ -1,0 +1,6 @@
+C:\Users\kar70\Desktop\Hell-Skeleton\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\Users\kar70\Desktop\Hell-Skeleton\Hell\bin\Debug\Hell.exe.config
+C:\Users\kar70\Desktop\Hell-Skeleton\Hell\bin\Debug\Hell.exe
+C:\Users\kar70\Desktop\Hell-Skeleton\Hell\bin\Debug\Hell.pdb
+C:\Users\kar70\Desktop\Hell-Skeleton\Hell\obj\Debug\Hell.exe
+C:\Users\kar70\Desktop\Hell-Skeleton\Hell\obj\Debug\Hell.pdb
